@@ -13,6 +13,6 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: Publish artifacts
   inputs:
-    PathtoPublish: '$(Build.SourcesDirectory)'
+    PathtoPublish: '$(Build.SourcesDirectory)/cloudmarque/'
     ArtifactName: 'CloudmarqueDocs'
     publishLocation: 'Container'
