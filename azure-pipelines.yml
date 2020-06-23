@@ -1,7 +1,7 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
+# # Cloudmarque Docs Pipeline
+# Publishes the content from the repository as an artefact in Azure DevOps.
+# This triggers further builds and tests, which ultimately end up with
+# documentation published at https://docs.trustmarque.com/cloudmarque.
 
 trigger:
 - master
@@ -10,9 +10,19 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+
+- task: CmdLine@2
+  displayName: Copy content
+  inputs:
+    script: |
+      cp -R $(Build.SourcesDirectory)/_cm-tags/ $(Build.ArtifactStagingDirectory)/package/_cm-tags/
+      cp -R $(Build.SourcesDirectory)/assets/ $(Build.ArtifactStagingDirectory)/package/assets/
+      cp -R $(Build.SourcesDirectory)/cloudmarque/ $(Build.ArtifactStagingDirectory)/package/cloudmarque/
+    workingDirectory: $(Build.SourcesDirectory)
+
 - task: PublishBuildArtifacts@1
   displayName: Publish artifacts
   inputs:
-    PathtoPublish: '$(Build.SourcesDirectory)/cloudmarque/'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)/package/'
     ArtifactName: 'CloudmarqueDocs'
     publishLocation: 'Container'
