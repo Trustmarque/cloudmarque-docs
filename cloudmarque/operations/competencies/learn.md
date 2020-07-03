@@ -32,7 +32,7 @@ Ideal continuous integration processes should have the following characteristics
    It is inevitable that failures will occur as part of a delivery process; learning competency should be developed to ensure that those mistakes are not repeated.
 
  - ### Impact of failure is minimised
-   The learning process involves continual exploration and mitigation of risk. If failure is unavoidable, it is often possible to instead p[minimise the impact of failure](https://en.wikipedia.org/wiki/Chaos_engineering). Effective teams are able to quantify and minimise risk by adapting to the changes they perceive in their environment, and they accomplish this within the iterative improvement cycle.
+   The learning process involves continual exploration and mitigation of risk. If failure is unavoidable, it is often possible to instead [minimise the impact of failure](https://en.wikipedia.org/wiki/Chaos_engineering). Effective teams are able to quantify and minimise risk by adapting to the changes they perceive in their environment, and they accomplish this within the iterative improvement cycle.
 
  - ### Shared understanding is developed
    The characteristics of the problem and solution space should be better understood by the delivery team as time progresses. It is important to recognise and encourage the formation and recording of this knowledge as teams and their focus inevitably change over time, and accrued collective wisdom needs to be preserved.
