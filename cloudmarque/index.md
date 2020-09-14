@@ -6,7 +6,9 @@ use_nav: false
 ---
 ## Watch the launch event
 Cloudmarque was launched at Trustmarque's ConnectIT event in June 2020, watch Nathan Kitchen's introduction to the project!
-<iframe width="960" height="540" src="https://www.youtube.com/embed/hfLWrsArwMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hfLWrsArwMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## What is it?
 Cloudmarque defines a common vocabulary (or "ubiquitous language") for discussing cloud estates, with template solutions to common problems encountered while adopting and managing cloud services.
@@ -22,7 +24,7 @@ Together these represent a comprehensive conceptual model for the adoption of cl
 ## Why Cloudmarque?
 Our time spent building cloud estates for public and private sector organisations led us to develop reusable architectures, documentation, and tools. We watched as consolidation and standardisation drove efficiency and innovation in our business, and finally chose to release these tools as an open source _Cloudmarque_ project so that others could use them too.
 
-Read more about why we decided to do this over on our [Tech Blog post from our CTO, James Butler]().
+Read more about why we decided to do this over on our [Tech Blog post from our Chief Cloud Architect, Nathan Kitchen](/blog/2020/06/12/docs/).
 
 We released the original framework as Open Source because we believe quality cloud tooling is:
 
