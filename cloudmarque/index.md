@@ -6,7 +6,9 @@ use_nav: false
 ---
 ## Watch the launch event
 Cloudmarque was launched at Trustmarque's ConnectIT event in June 2020, watch Nathan Kitchen's introduction to the project!
-<iframe width="960" height="540" src="https://www.youtube.com/embed/hfLWrsArwMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hfLWrsArwMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## What is it?
 Cloudmarque defines a common vocabulary (or "ubiquitous language") for discussing cloud estates, with template solutions to common problems encountered while adopting and managing cloud services.
