@@ -5,7 +5,7 @@ tags: tags, automation, meta
 ---
 This page is an auto-generated list of all PowerShell cmdlets in the `Cloudmarque.Azure` package.
 
-{% if site.cm-commands.length > 0 %}
+{% if site.cm-commands.size > 0 %}
 <ul>
     {% for cmd in site.cm-commands %}
     <li><a href="{{ cmd.url }}">{{ cmd.title }}</a></li>
