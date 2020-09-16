@@ -7,7 +7,7 @@ This guide describes how to install Cloudmarque on a development server, a typic
 <div class="alert alert-info" role="alert">
   <h4 class="alert-heading">Local vs. pipeline installation</h4>
   <p>
-    Deployments to test or production environments should be deployed via automated pipelines, typically triggered by changes to a configuration repository. The process is functionally identical to the one outlined below. The additional considerations and recommendations related to unattended deployment will be the subject of a future guide.
+    Deployments to test or production environments should be deployed via automated pipelines, typically triggered by changes to a configuration repository. The process is functionally identical to the one outlined below and outlined in a [separate guide](/tools/azure/pipelines.html).
   </p>
 </div>
 
