@@ -17,6 +17,7 @@ steps:
     script: |
       mkdir $(Build.ArtifactStagingDirectory)/package
       cp -R $(Build.SourcesDirectory)/_cm-tags/ $(Build.ArtifactStagingDirectory)/package/_cm-tags/
+      cp -R $(Build.SourcesDirectory)/assets/ $(Build.ArtifactStagingDirectory)/package/_data/
       cp -R $(Build.SourcesDirectory)/assets/ $(Build.ArtifactStagingDirectory)/package/assets/
       cp -R $(Build.SourcesDirectory)/cloudmarque/ $(Build.ArtifactStagingDirectory)/package/cloudmarque/
     workingDirectory: $(Build.SourcesDirectory)
