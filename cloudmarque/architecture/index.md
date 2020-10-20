@@ -2,8 +2,12 @@
 layout: default
 title: Reference Architecture
 summary: Explore the elements of the Cloudmarque Reference Architecture, and understand the design principles that lie behind it.
-jumbotron: ref-arch
+jumbotron: ref-arch2
 use_nav: false
+scripts:
+  post:
+   - /assets/js/d3-arch/d3.v4.min.js
+   - /assets/js/d3-architecture.js
 ---
 ## Getting around
 The reference architecture is arranged in a three-tier hierarchy. Each component has a defined role and characteristics, providing "services" to other components. These services become more granular and specific deeper into the hierarchy.
@@ -41,11 +45,10 @@ The reference architecture is arranged in a three-tier hierarchy. Each component
 </div>
 <div class="media mt-3">
     <div class="pr-3">
-        <img src="/assets/images/headers/stack-generic-color.svg" alt="Generic image for an architectural component" height="64px" width="64px">
+        <img src="/assets/images/headers/stack-generic-color.svg" alt="Generic placeholder image" height="64px" width="64px">
     </div>
     <div class="media-body">
         <h5 class="mt-0">Components</h5>
-        An architectural <em>c
-        omponent</em> is a collection of resources brought together to support a specific workload. This might be a compute workload such as a website, or an operational workload relating to maintenance activities. Each Stack is accompanied by cloud-specific tooling to accelerate management activities.
+        An architecture <em>component</em> is a collection of resources brought together to support a specific workload. This might be a compute workload such as a website, or an operational workload relating to maintenance activities. Each Stack is accompanied by cloud-specific tooling to accelerate management activities.
     </div>
 </div>

@@ -29,7 +29,7 @@ The "security onion" below outlines a comprehensive model for defense in depth, 
   </div>
   <div class="card-body tab-content">
     <div class="tab-pane show active" id="azure" role="tabpanel" aria-labelledby="azure-tab">
-      <img src="/assets/images/ref-arch/security.svg" alt="The Security Onion: Defense in depth">
+      <img src="/assets/images/cloudmarque/diagrams/security/layered-security-model-azure.svg" alt="The Security Onion: Defense in depth">
     </div>
   </div>
 </div>

@@ -1,0 +1,195 @@
+section: Cloudmarque
+base_url: /cloudmarque
+children:
+  - title: Reference Architecture
+    slug: architecture
+    children:
+      - title: Overview
+        slug: index.html
+      - title: Core
+        slug: core
+        children:
+          - title: Overview
+            slug: index.html
+          - title: Keys
+            slug: keys.html
+          - title: Cost control
+            slug: cost-controls.html
+          - title: Tagging
+            slug: tagging.html
+          - title: Automation
+            slug: automation.html
+          - title: Monitoring
+            slug: monitoring.html
+      - title: Infrastructure-as-a-Service
+        slug: iaas
+        children:
+          - title: Overview
+            slug: index.html
+          - title: Hub and spoke
+            slug: hub-and-spoke.html
+          - title: Compute nodes
+            slug: compute-nodes.html
+          - title: Image management
+            slug: images.html
+          - title: Update management
+            slug: update-management.html
+          - title: Virtual desktops
+            slug: vd.html
+      - title: Platform-as-a-Service
+        slug: paas
+        children:
+          - title: Overview
+            slug: index.html
+          - title: Web and API
+            slug: web
+            children:
+              - title: Static sites
+                slug: static.html
+              - title: Dynamic sites
+                slug: dynamic.html
+          - title: Jobs
+            slug: jobs.html
+          - title: Business Intelligence
+            slug: bi.html
+          - title: Storage
+            slug: storage.html
+      - title: Endpoints
+        slug: endpoints
+        children:
+          - title: Overview
+            slug: index.html
+          - title: Firewall
+            slug: firewall.html
+          - title: Bastion Hosts
+            slug: bastion.html
+          - title: Messaging
+            slug: messaging.html
+      - title: Security
+        slug: security
+        children:
+          - title: Overview
+            slug: index.html
+          - title: Governance
+            slug: governance.html
+          - title: Account management
+            slug: accounts.html
+          - title: Partner access
+            slug: partner.html
+          - title: Plugin SOC
+            slug: soc.html
+      - title: DevOps
+        slug: devops
+        children:
+          - title: Overview
+            slug: index.html
+          - title: Source code
+            slug: source.html
+          - title: Pipelines
+            slug: pipelines.html
+          - title: Environments
+            slug: environments.html
+  - title: Operating Model
+    slug: operations
+    children:
+    - title: Overview
+      slug: index.html
+    - title: Adoption
+      slug: adoption
+      children:
+      - title: Getting started
+        slug: index.html
+      - title: Principles
+        slug: theory.html
+      - title: Building teams
+        slug: teams.html
+      - title: Information systems
+        slug: systems.html
+      - title: Adoption checklist
+        slug: checklist.html
+    - title: Ceremony
+      slug: ceremony
+      children:
+      - title: Overview
+        slug: index.html
+      - title: Refinement
+        slug: refinement.html
+      - title: Planning
+        slug: planning.html
+      - title: Daily
+        slug: daily.html
+      - title: Sync
+        slug: sync.html
+      - title: Retrospective
+        slug: retrospective.html
+    - title: Competencies
+      slug: competencies
+      children:
+      - title: Overview
+        slug: index.html
+      - title: Learn
+        slug: learn.html
+      - title: Innovate
+        slug: innovate.html
+      - title: Plan
+        slug: plan.html
+      - title: Code
+        slug: code.html
+      - title: CI
+        slug: ci.html
+      - title: CD
+        slug: cd.html
+      - title: Operate
+        slug: operate.html
+      - title: Monitor
+        slug: monitor.html
+  - title: Tools
+    slug: tools
+    children:
+    - title: Overview
+      slug: index.html
+    - title: Prepare VS Code
+      slug: vs-code.html
+    - title: Naming conventions
+      slug: naming.html
+    - title: Service locator
+      slug: service-locator.html
+    - title: Azure
+      slug: azure
+      children:
+      - title: Local install
+        slug: install.html
+      - title: Pipeline usage
+        slug: pipelines.html
+      - title: Contributing
+        slug: contributing.html
+    - title: Docs
+      slug: docs
+      children:
+      - title: Contributing
+        slug: index.html
+      - title: Content standards
+        slug: content.html
+      - title: Images
+        slug: images.html
+  - title: Reference
+    slug: reference
+    children:  
+     - title: Tags
+       slug: tags
+       children:
+        - title: Overview
+          slug: index.html
+        - title: Tag value types
+          slug: tag-types.html
+       collection:
+          name: cm-tags
+          group: category
+     - title: Commands
+       slug: commands
+       children:
+        - title: Index
+          slug: index.html
+       collection:
+          name: cm-commands
+          group: component
