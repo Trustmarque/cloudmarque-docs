@@ -94,6 +94,8 @@ children:
     children:
     - title: Overview
       slug: index.html
+    - title: Azure CAF Alignment
+      slug: caf.html
     - title: Adoption
       slug: adoption
       children:
