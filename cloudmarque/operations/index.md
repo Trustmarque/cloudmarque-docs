@@ -4,7 +4,6 @@ title: Cloudmarque Operating Guide
 summary: >
    Discover how to operate a Cloudmarque architecture by learning the operating procedures, responsibilities, and information flows required to keep your systems healthy. Click on an area to review in more detail.
 jumbotron: ops
-use_nav: false
 ---
 ## Why DevOps?
 The Cloudmarque Operating Guide describes a DevOps-oriented approach to managing a cloud estate with the following characteristics:

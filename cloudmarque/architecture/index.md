@@ -3,7 +3,6 @@ layout: default
 title: Reference Architecture
 summary: Explore the elements of the Cloudmarque Reference Architecture, and understand the design principles that lie behind it.
 jumbotron: ref-arch2
-use_nav: false
 scripts:
   post:
    - /assets/js/d3-arch/d3.v4.min.js

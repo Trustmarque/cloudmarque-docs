@@ -2,7 +2,6 @@
 layout: default
 title: Cloudmarque Reference Architecture
 jumbotron: cloudmarque
-use_nav: false
 ---
 ## Watch the launch event
 Cloudmarque was launched at Trustmarque's ConnectIT event in June 2020, watch Nathan Kitchen's introduction to the project!
