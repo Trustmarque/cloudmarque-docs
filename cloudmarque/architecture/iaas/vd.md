@@ -56,6 +56,21 @@ The recommended approach to delivering new updates into a Virtual Desktop enviro
  5. Disabling new connections to the current/legacy Virtual Desktop experience.
  6. When all connections are drained, decommissioning the legacy Virtual Desktops or refreshing them with the next set of updates.
 
+<div class="card text-center">
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#azure-updates" role="tab" aria-controls="profile" aria-selected="true">Azure</a>
+      </li>
+    </ul>
+  </div>
+  <div class="card-body tab-content">
+    <div class="tab-pane show active" id="azure-updates" role="tabpanel" aria-labelledby="azure-tab">
+      <img src="/assets/images/cloudmarque/diagrams/architecture/iaas/wvd-updates.svg" alt="Architecture for Windows Virtual Desktop Updates in Microsoft Azure">
+    </div>
+  </div>
+</div>
+
 ## Services
 Cloudmarque workload components use a [service locator](/cloudmarque/tools/service-locator.html) pattern to identify the services they provide and specify dependencies. This component provides and relies on the following services:
 

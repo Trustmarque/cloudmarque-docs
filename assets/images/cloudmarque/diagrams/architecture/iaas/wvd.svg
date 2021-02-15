@@ -15,7 +15,10 @@
    version="1.1"
    id="svg837"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="wvd.svg">
+   sodipodi:docname="wvd.svg"
+   inkscape:export-filename="C:\Users\nathank.SOFTCORP\Pictures\iaas-wvd.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs831">
     <linearGradient
@@ -659,14 +662,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-173.92236"
-     inkscape:cy="277.33415"
+     inkscape:cx="380.1214"
+     inkscape:cy="123.90215"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
-     inkscape:window-width="1016"
-     inkscape:window-height="405"
+     inkscape:window-width="1455"
+     inkscape:window-height="973"
      inkscape:window-x="2201"
      inkscape:window-y="474"
      inkscape:window-maximized="0"
@@ -987,7 +990,7 @@
            id="path1214-3" />
         <polygon
            style="fill:#59b4d9;stroke-width:2.090909"
-           points="46,35 4,35 4,6 46,6 "
+           points="4,6 46,6 46,35 4,35 "
            id="polygon1216-9" />
         <rect
            style="fill:#a0a1a2;stroke-width:2.090909"
@@ -1008,19 +1011,19 @@
            id="path1222-7" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="25.701,20.299 35.506,20.299 35.506,11.894 25.701,12.683 "
+           points="35.506,11.894 25.701,12.683 25.701,20.299 35.506,20.299 "
            id="polygon1224-7" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="15.896,20.299 24.301,20.299 24.301,12.796 15.896,13.473 "
+           points="24.301,12.796 15.896,13.473 15.896,20.299 24.301,20.299 "
            id="polygon1226-07" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="25.701,21.699 35.506,21.699 35.506,30.103 25.701,29.314 "
+           points="35.506,30.103 25.701,29.314 25.701,21.699 35.506,21.699 "
            id="polygon1228-1" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="15.896,21.699 24.301,21.699 24.301,29.201 15.896,28.524 "
+           points="24.301,29.201 15.896,28.524 15.896,21.699 24.301,21.699 "
            id="polygon1230-0" />
       </g>
       <g
@@ -1080,7 +1083,7 @@
            id="path1214-7-3" />
         <polygon
            style="fill:#59b4d9;stroke-width:2.090909"
-           points="4,35 4,6 46,6 46,35 "
+           points="46,6 46,35 4,35 4,6 "
            id="polygon1216-7-6" />
         <rect
            style="fill:#a0a1a2;stroke-width:2.090909"
@@ -1101,19 +1104,19 @@
            id="path1222-4-6" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="35.506,20.299 35.506,11.894 25.701,12.683 25.701,20.299 "
+           points="25.701,12.683 25.701,20.299 35.506,20.299 35.506,11.894 "
            id="polygon1224-0-0" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="24.301,20.299 24.301,12.796 15.896,13.473 15.896,20.299 "
+           points="15.896,13.473 15.896,20.299 24.301,20.299 24.301,12.796 "
            id="polygon1226-5-3" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="35.506,21.699 35.506,30.103 25.701,29.314 25.701,21.699 "
+           points="25.701,29.314 25.701,21.699 35.506,21.699 35.506,30.103 "
            id="polygon1228-8-3" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="24.301,21.699 24.301,29.201 15.896,28.524 15.896,21.699 "
+           points="15.896,28.524 15.896,21.699 24.301,21.699 24.301,29.201 "
            id="polygon1230-5-9" />
       </g>
       <g
@@ -1138,7 +1141,7 @@
            id="path1214-8-0" />
         <polygon
            style="fill:#59b4d9;stroke-width:2.090909"
-           points="46,35 4,35 4,6 46,6 "
+           points="4,6 46,6 46,35 4,35 "
            id="polygon1216-1-7" />
         <rect
            style="fill:#a0a1a2;stroke-width:2.090909"
@@ -1159,19 +1162,19 @@
            id="path1222-2-1" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="25.701,20.299 35.506,20.299 35.506,11.894 25.701,12.683 "
+           points="35.506,11.894 25.701,12.683 25.701,20.299 35.506,20.299 "
            id="polygon1224-05-32" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="15.896,20.299 24.301,20.299 24.301,12.796 15.896,13.473 "
+           points="24.301,12.796 15.896,13.473 15.896,20.299 24.301,20.299 "
            id="polygon1226-0-3" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="25.701,21.699 35.506,21.699 35.506,30.103 25.701,29.314 "
+           points="35.506,30.103 25.701,29.314 25.701,21.699 35.506,21.699 "
            id="polygon1228-0-2" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="15.896,21.699 24.301,21.699 24.301,29.201 15.896,28.524 "
+           points="24.301,29.201 15.896,28.524 15.896,21.699 24.301,21.699 "
            id="polygon1230-1-5" />
       </g>
       <text
@@ -1298,7 +1301,7 @@
            id="path1214-3-5" />
         <polygon
            style="fill:#59b4d9;stroke-width:2.090909"
-           points="4,35 4,6 46,6 46,35 "
+           points="4,6 46,6 46,35 4,35 "
            id="polygon1216-9-5" />
         <rect
            style="fill:#a0a1a2;stroke-width:2.090909"
@@ -1319,19 +1322,19 @@
            id="path1222-7-7" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="35.506,20.299 35.506,11.894 25.701,12.683 25.701,20.299 "
+           points="35.506,11.894 25.701,12.683 25.701,20.299 35.506,20.299 "
            id="polygon1224-7-5" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="24.301,20.299 24.301,12.796 15.896,13.473 15.896,20.299 "
+           points="24.301,12.796 15.896,13.473 15.896,20.299 24.301,20.299 "
            id="polygon1226-07-2" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="35.506,21.699 35.506,30.103 25.701,29.314 25.701,21.699 "
+           points="35.506,30.103 25.701,29.314 25.701,21.699 35.506,21.699 "
            id="polygon1228-1-6" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="24.301,21.699 24.301,29.201 15.896,28.524 15.896,21.699 "
+           points="24.301,29.201 15.896,28.524 15.896,21.699 24.301,21.699 "
            id="polygon1230-0-5" />
       </g>
       <g
@@ -1391,7 +1394,7 @@
            id="path1214-7-3-1" />
         <polygon
            style="fill:#59b4d9;stroke-width:2.090909"
-           points="46,35 4,35 4,6 46,6 "
+           points="4,35 4,6 46,6 46,35 "
            id="polygon1216-7-6-9" />
         <rect
            style="fill:#a0a1a2;stroke-width:2.090909"
@@ -1412,19 +1415,19 @@
            id="path1222-4-6-3" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="25.701,20.299 35.506,20.299 35.506,11.894 25.701,12.683 "
+           points="35.506,20.299 35.506,11.894 25.701,12.683 25.701,20.299 "
            id="polygon1224-0-0-8" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="15.896,20.299 24.301,20.299 24.301,12.796 15.896,13.473 "
+           points="24.301,20.299 24.301,12.796 15.896,13.473 15.896,20.299 "
            id="polygon1226-5-3-8" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="25.701,21.699 35.506,21.699 35.506,30.103 25.701,29.314 "
+           points="35.506,21.699 35.506,30.103 25.701,29.314 25.701,21.699 "
            id="polygon1228-8-3-8" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="15.896,21.699 24.301,21.699 24.301,29.201 15.896,28.524 "
+           points="24.301,21.699 24.301,29.201 15.896,28.524 15.896,21.699 "
            id="polygon1230-5-9-6" />
       </g>
       <g
@@ -1449,7 +1452,7 @@
            id="path1214-8-0-7" />
         <polygon
            style="fill:#59b4d9;stroke-width:2.090909"
-           points="4,6 46,6 46,35 4,35 "
+           points="46,6 46,35 4,35 4,6 "
            id="polygon1216-1-7-8" />
         <rect
            style="fill:#a0a1a2;stroke-width:2.090909"
@@ -1470,19 +1473,19 @@
            id="path1222-2-1-6" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="35.506,11.894 25.701,12.683 25.701,20.299 35.506,20.299 "
+           points="25.701,12.683 25.701,20.299 35.506,20.299 35.506,11.894 "
            id="polygon1224-05-32-9" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="24.301,12.796 15.896,13.473 15.896,20.299 24.301,20.299 "
+           points="15.896,13.473 15.896,20.299 24.301,20.299 24.301,12.796 "
            id="polygon1226-0-3-0" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="35.506,30.103 25.701,29.314 25.701,21.699 35.506,21.699 "
+           points="25.701,29.314 25.701,21.699 35.506,21.699 35.506,30.103 "
            id="polygon1228-0-2-3" />
         <polygon
            style="opacity:0.8;fill:#ffffff;stroke-width:2.090909"
-           points="24.301,29.201 15.896,28.524 15.896,21.699 24.301,21.699 "
+           points="15.896,28.524 15.896,21.699 24.301,21.699 24.301,29.201 "
            id="polygon1230-1-5-5" />
       </g>
       <text
@@ -1851,11 +1854,11 @@
          style="opacity:0.2;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2814"
-         points="3.999,35 3.999,6 45.999,6 45.999,35 "
+         points="45.999,6 45.999,35 3.999,35 3.999,6 "
          style="fill:#804998;stroke-width:2.41480851" />
       <polygon
          id="polygon2816"
-         points="3.999,35 3.999,6 45.999,6 45.999,35 "
+         points="45.999,6 45.999,35 3.999,35 3.999,6 "
          style="opacity:0.4;fill:#ffffff;stroke-width:2.41480851" />
       <path
          id="path2818"
@@ -1865,22 +1868,22 @@
          style="opacity:0.2;fill:#804998;stroke-width:2.41480851" />
       <polygon
          id="polygon2820"
-         points="35.505,20.299 35.505,11.894 25.7,12.683 25.7,20.299 "
+         points="25.7,12.683 25.7,20.299 35.505,20.299 35.505,11.894 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2822"
-         points="24.3,20.299 24.3,12.796 15.895,13.473 15.895,20.299 "
+         points="15.895,13.473 15.895,20.299 24.3,20.299 24.3,12.796 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2824"
-         points="35.505,21.699 35.505,30.103 25.7,29.314 25.7,21.699 "
+         points="25.7,29.314 25.7,21.699 35.505,21.699 35.505,30.103 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2826"
-         points="24.3,21.699 24.3,29.201 15.895,28.524 15.895,21.699 "
+         points="15.895,28.524 15.895,21.699 24.3,21.699 24.3,29.201 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <path
@@ -2167,7 +2170,7 @@
          style="opacity:0.2;fill:#ffffff;stroke-width:4.0947504" />
       <polygon
          id="polygon8"
-         points="4,35 4,6 46,6 46,35 "
+         points="46,6 46,35 4,35 4,6 "
          style="fill:#59b4d9;stroke-width:4.0947504" />
       <rect
          id="rect10"
@@ -2378,7 +2381,7 @@
          style="opacity:0.6;fill:#ffffff;stroke-width:2.27036428" />
       <polygon
          id="polygon2349"
-         points="21.588,35.191 20.412,36.809 31.412,44.809 32.588,44.809 43.588,36.809 42.412,35.191 33,42.037 33,22 31,22 31,42.037 "
+         points="43.588,36.809 42.412,35.191 33,42.037 33,22 31,22 31,42.037 21.588,35.191 20.412,36.809 31.412,44.809 32.588,44.809 "
          style="fill:#ffffff;stroke-width:2.27036428" />
       <circle
          id="circle2351"
@@ -2741,11 +2744,11 @@
          style="opacity:0.2;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2814-6"
-         points="45.999,35 3.999,35 3.999,6 45.999,6 "
+         points="3.999,6 45.999,6 45.999,35 3.999,35 "
          style="fill:#804998;stroke-width:2.41480851" />
       <polygon
          id="polygon2816-9"
-         points="45.999,35 3.999,35 3.999,6 45.999,6 "
+         points="3.999,6 45.999,6 45.999,35 3.999,35 "
          style="opacity:0.4;fill:#ffffff;stroke-width:2.41480851" />
       <path
          id="path2818-7"
@@ -2755,22 +2758,22 @@
          style="opacity:0.2;fill:#804998;stroke-width:2.41480851" />
       <polygon
          id="polygon2820-4"
-         points="25.7,20.299 35.505,20.299 35.505,11.894 25.7,12.683 "
+         points="35.505,11.894 25.7,12.683 25.7,20.299 35.505,20.299 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2822-8"
-         points="15.895,20.299 24.3,20.299 24.3,12.796 15.895,13.473 "
+         points="24.3,12.796 15.895,13.473 15.895,20.299 24.3,20.299 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2824-1"
-         points="25.7,21.699 35.505,21.699 35.505,30.103 25.7,29.314 "
+         points="35.505,30.103 25.7,29.314 25.7,21.699 35.505,21.699 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <polygon
          id="polygon2826-4"
-         points="15.895,21.699 24.3,21.699 24.3,29.201 15.895,28.524 "
+         points="24.3,29.201 15.895,28.524 15.895,21.699 24.3,21.699 "
          enable-background="new    "
          style="opacity:0.8;fill:#ffffff;stroke-width:2.41480851" />
       <path
@@ -2867,7 +2870,7 @@
          style="fill:#ffffff;stroke-width:3.06179333" />
       <polygon
          id="polygon6083"
-         points="28,22.004 22,22.004 25,31.004 "
+         points="25,31.004 28,22.004 22,22.004 "
          style="fill:#ffffff;stroke-width:3.06179333" />
       <path
          id="path6085"
@@ -3367,45 +3370,45 @@
            id="g1580">
           <polygon
              id="polygon1574"
-             points="8.926,5.194 13.067,2.794 13.067,7.585 8.926,9.993 "
+             points="13.067,7.585 8.926,9.993 8.926,5.194 13.067,2.794 "
              style="fill:#76bc2d" />
           <polygon
              id="polygon1576"
-             points="8.926,0.386 13.067,2.794 8.926,5.201 4.785,2.793 "
+             points="8.926,5.201 4.785,2.793 8.926,0.386 13.067,2.794 "
              style="fill:#b4ec36" />
           <polygon
              id="polygon1578"
-             points="4.785,2.793 8.926,5.201 8.926,9.993 4.785,7.585 "
+             points="8.926,9.993 4.785,7.585 4.785,2.793 8.926,5.201 "
              style="fill:#86d633" />
         </g>
         <g
            id="g1588">
           <polygon
              id="polygon1582"
-             points="4.641,12.816 8.782,10.416 8.782,15.207 4.641,17.614 "
+             points="8.782,15.207 4.641,17.614 4.641,12.816 8.782,10.416 "
              style="fill:#76bc2d" />
           <polygon
              id="polygon1584"
-             points="4.641,8.007 8.782,10.416 4.641,12.822 0.5,10.415 "
+             points="4.641,12.822 0.5,10.415 4.641,8.007 8.782,10.416 "
              style="fill:#b4ec36" />
           <polygon
              id="polygon1586"
-             points="0.5,10.415 4.641,12.822 4.641,17.614 0.5,15.207 "
+             points="4.641,17.614 0.5,15.207 0.5,10.415 4.641,12.822 "
              style="fill:#86d633" />
         </g>
         <g
            id="g1596">
           <polygon
              id="polygon1590"
-             points="13.359,12.816 17.5,10.416 17.5,15.207 13.359,17.614 "
+             points="17.5,15.207 13.359,17.614 13.359,12.816 17.5,10.416 "
              style="fill:#76bc2d" />
           <polygon
              id="polygon1592"
-             points="13.36,8.007 17.5,10.416 13.36,12.822 9.218,10.415 "
+             points="13.36,12.822 9.218,10.415 13.36,8.007 17.5,10.416 "
              style="fill:#b4ec36" />
           <polygon
              id="polygon1594"
-             points="9.218,10.415 13.359,12.822 13.359,17.614 9.218,15.207 "
+             points="13.359,17.614 9.218,15.207 9.218,10.415 13.359,12.822 "
              style="fill:#86d633" />
         </g>
       </g>
@@ -3461,7 +3464,7 @@
          style="opacity:0.2;fill:#ffffff;stroke-width:4.0947504" />
       <polygon
          id="polygon8-7"
-         points="4,6 46,6 46,35 4,35 "
+         points="46,35 4,35 4,6 46,6 "
          style="fill:#59b4d9;stroke-width:4.0947504" />
       <rect
          id="rect10-5"
@@ -3577,7 +3580,7 @@
          style="opacity:0.2;fill:#ffffff;stroke-width:4.0947504" />
       <polygon
          id="polygon8-1"
-         points="46,35 4,35 4,6 46,6 "
+         points="4,6 46,6 46,35 4,35 "
          style="fill:#59b4d9;stroke-width:4.0947504" />
       <rect
          id="rect10-4"
