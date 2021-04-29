@@ -22,24 +22,24 @@ Deploying Core is a straightforward first step toward building the operational c
   </div>
 </div>
 
-## [Keys](keys.html)
+## [Keys](/cloudmarque/architecture/core/keys.html)
 A _Keys_ stack is a specialist store for certificates, passwords, keys, and tokens. This integrates with other cloud services to allow for secure dissemination of access controls.
 
 Whether you are encrypting VM disks, enforcing SSL on websites, or configuring connections to SQL databases in a DevOps pipeline, the secure value should be put into a secret store. Almost every resource will require some kind of access control key, so a secret store is a critical part of your Core architecture.
 
-## [Tagging](tagging.html)
+## [Tagging](/cloudmarque/architecture/core/tagging.html)
 While not a resource in itself, a standardised _Tagging_ stack enables clearer operational processes and automation possibilities. A good tagging strategy allows resources to participate in pre-defined automation behaviours and defines relationships between resources and wider service concepts. For example:
 
  * Marking resources for [automated deletion](/cloudmarque/reference/tags/common/cm-delete.html)
  * Associating resources with [owner operator](/cloudmarque/reference/tags/common/cm-owner.html) contact information
  * Recording the [source](/cloudmarque/reference/tags/common/cm-source.html) of a resource
 
-## [Monitoring](monitoring.html)
+## [Monitoring](/cloudmarque/architecture/core/monitoring.html)
 Concerned with the storage and management of logs across the cloud environment. Alongside the ability to search and interrogate logs are options around metrics to be tracked, alert thresholds, and onward incident processing when these thresholds are breached.
 
 Monitoring must be deployed and [integrated into wider cloud operational processes](/cloudmarque/operations/adoption/).
 
-## [Automation](automation.html)
+## [Automation](/cloudmarque/architecture/core/automation.html)
 Changes to cloud environments can take one of two paths:
 
  * Redeployments from defined source code repositories
@@ -47,7 +47,7 @@ Changes to cloud environments can take one of two paths:
 
 Standard Operational Procedure can be defined and carried out by Automation accounts. These procecures can further be triggered to run when some threshold or specific alert type is detected in the monitoring stack, potentially making an environment self-healing and reducing the burden on Service Desk teams.
 
-## [Cost controls](cost-controls.html)
+## [Cost controls](/cloudmarque/architecture/core/cost-controls.html)
 Consumption-based charging can be a blocker to cloud adoption. As costs are not predictable, typical financial controls may be ineffective. New tools and processes are needed to monitor spend and quickly react to unexpected consumption. The Budget stack includes tooling to track and control spend tied into operational process.
 
 The _Cost Control_ stack also includes associated cost optimisation configuration options.
